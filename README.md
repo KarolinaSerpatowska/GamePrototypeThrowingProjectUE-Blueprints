@@ -9,7 +9,9 @@ All of my code and assets can NOT be used commercially without permission.
 Gungnir 3d model by me (Karolina Serpatowska).
 
 Used assets:
+
 Animations: Mixamo
+
 Models
 Apple by TahirNilin https://sketchfab.com/3d-models/apple-643eb66651864bb78871e5c1066b4ef6
 Axe basic by CGenesis https://sketchfab.com/3d-models/vikingmedieval-game-character-a9e99a47d2a24957ab6c08c9e57ad48c
