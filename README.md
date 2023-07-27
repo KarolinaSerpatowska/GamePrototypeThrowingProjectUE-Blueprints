@@ -1,6 +1,7 @@
 # ThrowingProject Blueprints
-
 Game prototype which I made to learn the Unreal Engine. Everything is made with blueprints.
+
+
 
 Developed with Unreal Engine 5.0.
 
