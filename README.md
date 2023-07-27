@@ -1,8 +1,10 @@
 # ThrowingProject Blueprints
 
 Game prototype which I made to learn the Unreal Engine. Everything is made with blueprints.
+
 Developed with Unreal Engine 5.0.
-Some animations are missing and replaced with placeholders.
+
+Some animations are missing and replaced with placeholders (final version uses some paid assets).
 
 All of my code and assets can NOT be used commercially without permission.
 
